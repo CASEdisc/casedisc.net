@@ -1,2 +1,2 @@
-# CodeNerve.github.io
-Terminal based portfolio website for CodeNerve
+# casedisc.net
+Terminal based website for casedisc.net
